@@ -1,3 +1,3 @@
 # Comp2900
 Curso __Data Structure__
-Profesor: Javier Dastas
+Profesor: _Javier Dastas_
