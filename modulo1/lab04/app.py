@@ -17,5 +17,9 @@ while (opcion != 0):
     opcion = int(input("0 Terminar - 1 Continuar: "))
     
 print("Fin")
+
+name = input("Enter name")
     
+for n in range (0,11):
+    print(name)
     
